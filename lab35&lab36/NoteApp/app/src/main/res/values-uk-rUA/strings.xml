@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Застосунок нотаток</string>
+    <string name="notes_list">Список нотаток</string>
+    <string name="note_save">Зберегти</string>
+    <string name="note_delete">Видалити</string>
+    <string name="note_deleted">Нотатка видалена</string>
+    <string name="note_add">Додати</string>
+    <string name="note_add_heading">Додати нову нотатку</string>
+    <string name="note_add_input_name">Назва нотатки</string>
+    <string name="note_add_input_contents">Вміст нотатки</string>
+    <string name="note_details">Деталі нотатки</string>
+    <string name="switch_locale">До Англійської</string>
+
+</resources>

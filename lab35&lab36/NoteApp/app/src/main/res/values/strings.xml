@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Note app</string>
+    <string name="notes_list">Notes list</string>
+    <string name="note_save">Save</string>
+    <string name="note_delete">Delete</string>
+    <string name="note_deleted">Note deleted successfully</string>
+    <string name="note_add">New note</string>
+    <string name="note_add_heading">Add your new note</string>
+    <string name="note_add_input_name">Note name</string>
+    <string name="note_add_input_contents">Note contents</string>
+    <string name="note_details">Note details</string>
+    <string name="switch_locale">To Ukrainian</string>
+
+</resources>
